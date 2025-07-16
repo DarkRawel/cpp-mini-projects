@@ -24,8 +24,9 @@ g++ calculator.cpp -o cpp_calculator
 g++ calculator.cpp -o cpp_calculator
 ./cpp_calculator
 ```
+---
 
-# 🔁 C++ Unit Converter
+### 🔁 C++ Unit Converter
 
 A simple console application to convert between common length units:
 
@@ -33,9 +34,7 @@ A simple console application to convert between common length units:
 - Meters to Kilometers  
 - Kilometers to Meters
 
----
-
-## ▶ How to Run
+### ▶ How to Run
 
 ```bash
 g++ unit_converter.cpp -o cpp_converter
@@ -50,7 +49,7 @@ A simple console application to convert between common length units:
 - Meters to Kilometers  
 - Kilometers to Meters
 
-## ▶ How to Run
+### ▶ How to Run
 
 ```bash
 g++ unit_converter.cpp -o cpp_converter
