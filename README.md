@@ -24,9 +24,7 @@ g++ calculator.cpp -o cpp_calculator
 g++ calculator.cpp -o cpp_calculator
 ./cpp_calculator
 ```
->>>>>>> bea1e753fbbb034f1d36c626b21c7a681f4665ce
 
-<<<<<<< HEAD
 # 🔁 C++ Unit Converter
 
 A simple console application to convert between common length units:
@@ -42,8 +40,8 @@ A simple console application to convert between common length units:
 ```bash
 g++ unit_converter.cpp -o cpp_converter
 ./cpp_converter
+```
 
-=======
 ##
 
 ### 🔁 C++ Unit Converter
@@ -58,5 +56,3 @@ A simple console application to convert between common length units:
 g++ unit_converter.cpp -o cpp_converter
 ./cpp_converter
 ```
-
->>>>>>> bea1e753fbbb034f1d36c626b21c7a681f4665ce
