@@ -17,10 +17,33 @@ A basic calculator that can:
 #### ▶ How to Run
 ```bash
 cd calculator
+<<<<<<< HEAD
+g++ calculator.cpp -o cpp_calculator
+./cpp_calculator
+=======
 g++ calculator.cpp -o cpp_calculator
 ./cpp_calculator
 ```
+>>>>>>> bea1e753fbbb034f1d36c626b21c7a681f4665ce
 
+<<<<<<< HEAD
+# 🔁 C++ Unit Converter
+
+A simple console application to convert between common length units:
+
+- Centimeters to Meters  
+- Meters to Kilometers  
+- Kilometers to Meters
+
+---
+
+## ▶ How to Run
+
+```bash
+g++ unit_converter.cpp -o cpp_converter
+./cpp_converter
+
+=======
 ##
 
 ### 🔁 C++ Unit Converter
@@ -35,3 +58,5 @@ A simple console application to convert between common length units:
 g++ unit_converter.cpp -o cpp_converter
 ./cpp_converter
 ```
+
+>>>>>>> bea1e753fbbb034f1d36c626b21c7a681f4665ce
